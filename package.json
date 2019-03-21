@@ -1,0 +1,27 @@
+{
+  "name": "img-automation",
+  "version": "1.0.0",
+  "description": "A tool to create different sizes and resolutions of an image",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/esplito/img-automation.git"
+  },
+  "author": "Emil Esplund",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/esplito/img-automation/issues"
+  },
+  "homepage": "https://github.com/esplito/img-automation#readme",
+  "devDependencies": {
+    "gulp": "^4.0.0",
+    "gulp-image-resize": "^0.13.0",
+    "gulp-imagemin": "^5.0.3",
+    "gulp-rename": "^1.4.0",
+    "lodash": "^4.17.11"
+  },
+  "dependencies": {}
+}
